@@ -1,5 +1,5 @@
 #!/bin/bash
-#一键部署 LNMP(源码安装版本)
+#一键部署lnmp (源码安装版本)
 
 menu(){
 	clear
